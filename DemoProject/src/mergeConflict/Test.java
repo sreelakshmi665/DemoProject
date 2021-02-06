@@ -12,7 +12,10 @@ public static void main(String[] args) {
 	int data2=20;
 	System.out.println("Hello!");
 	System.out.println("Hello!");
+	System.out.println("Hello!");
 	System.out.println(data1*data2);
-
+	System.out.println("Hello!");
+	System.out.println("Hello!");
+	System.out.println("Hello!");
 }
 }
